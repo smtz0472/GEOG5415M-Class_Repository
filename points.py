@@ -14,8 +14,8 @@ points_list = [
 
     # Add more points here
 
-    # [ latitude, longitude, "description" ], 
-    # [ latitude, longitude, "description" ], 
+    [ 53, -1.5, "Close to University of Leeds" ], 
+    [ 53, -1.6, "Close to Nick's neighbourhood" ], 
 
 ]
 
