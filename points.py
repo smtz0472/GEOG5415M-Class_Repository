@@ -16,8 +16,8 @@ points_list = [
 
     # Add more points here
 
-    # [ latitude, longitude, "description" ],
-    # [ latitude, longitude, "description" ],
+     [ 52.65026, -0.47385, "Albert Bridge" ],
+     [ 52.50787, -0.40212, "Cara's Hill" ],
     [  53.814665, -1.6376061, "Fran's favourite bakery"],
     
     [  53.800622, -1.5483202, "The Leeds Art Gallery!" ],
