@@ -22,8 +22,8 @@ points_list = [
     
     [  53.800622, -1.5483202, "The Leeds Art Gallery!" ],
     [  53.798874, -1.5408800, "Rayan's Favourite Japanese Restaurant" ],
-    [  34.58223767715908, 135.79883198965894, "Kuni's favourite ramen restaurant in Japan"]
-    [  53.800350,-1.539687, " Chenxi's favourite Thai Restaurant]
+    [  34.58223767715908, 135.79883198965894, "Kuni's favourite ramen restaurant in Japan"],
+    [  53.800350,-1.539687, " Chenxi's favourite Thai Restaurant"],
 ]
 
 def get_points():
